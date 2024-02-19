@@ -1,0 +1,1 @@
+npx create-expo-app movie-app
